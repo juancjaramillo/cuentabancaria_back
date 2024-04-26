@@ -2,7 +2,7 @@
     <h1>¡Me gusta Programar!</h1>  
 </div>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Soy Juan !!;Ingeniero de Sistemas;Backend+Frontend+Dev;Me gusta programar;function+findQuestion(42)" alt="Computer Engineering, Backend front-end developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Soy Juan !!;Ingeniero de Sistemas;Back-end+Front-end+Dev;Me gusta programar" alt="Computer Engineering, Back-end front-end developer"></a>
 </div>
 
 
