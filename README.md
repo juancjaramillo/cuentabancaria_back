@@ -17,9 +17,9 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 ### Requisitos previos
 
-- PHP >= 7.4
+- PHP >= 8.1
 - Composer
-- Node.js >= 14.x
+- Node.js >= v21.7.3
 - NPM o Yarn
 
 ### Pasos de instalación
